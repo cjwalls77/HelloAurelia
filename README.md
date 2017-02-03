@@ -1,2 +1,2 @@
 # HelloAurelia Example Project
-Basic example of Aurelia SPA.
+Basic example of Aurelia SPA using JSPM.
